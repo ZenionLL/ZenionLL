@@ -15,7 +15,7 @@
 - **Сети**: Построение топологий, диагностика, базовые знания Cisco.
 
 ### 📫 Связь:
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=gmail&logoColor=white)](mailto:zenion2809@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zenion2809@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Zenion_LL)
 ### 💬 Альтернативная связь:
-[![UltraTech LoliLand](https://img.shields.io/badge/Discord_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Sa7PcK7A)
+[![UltraTech LoliLand](https://img.shields.io/badge/UltraTech-LoliLand-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Sa7PcK7A)
