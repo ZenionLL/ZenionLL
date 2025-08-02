@@ -19,3 +19,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Zenion_LL)
 ### 💬 Альтернативная связь:
 [![UltraTech LoliLand](https://img.shields.io/badge/UltraTech-LoliLand-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Sa7PcK7A)
+
+
+<!--
+### 📊 Моя статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenionLL&layout=compact&theme=dark)](https://github.com/ZenionLL)
+-->
