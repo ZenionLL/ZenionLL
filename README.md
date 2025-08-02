@@ -21,6 +21,8 @@
 ### 💬 Альтернативная связь:
 [![UltraTech LoliLand](https://img.shields.io/badge/UltraTech-LoliLand-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/Sa7PcK7A)
 
+📚 **Дополнительные навыки**:
+- `📜` Написание скриптов для CraftTweaker
 
 <!--
 ### 📊 Моя статистика:
