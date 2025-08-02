@@ -13,3 +13,9 @@
 - **SQL**: Сложные вложенные запросы, оптимизация, проектирование БД.  
 - **Администрирование**: Настройка серверов (Linux/Windows), мониторинг.  
 - **Сети**: Построение топологий, диагностика, базовые знания Cisco.
+
+### 📫 Связь:
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=gmail&logoColor=white)](mailto:zenion2809@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Zenion_LL)
+### 💬 Альтернативная связь:
+[![UltraTech LoliLand](https://img.shields.io/badge/Discord_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Sa7PcK7A)
